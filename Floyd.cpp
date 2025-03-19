@@ -29,6 +29,8 @@ int main() {
         {2, INF, INF, 0}
     };
 
+    cout<<"namste";
+
     floydWarshall(dist, V);
 
     // Print the shortest distance matrix
